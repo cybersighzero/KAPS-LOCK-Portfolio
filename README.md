@@ -34,15 +34,7 @@ Nothing else on the page needs to change for that.
 
 ## Viewing it
 
-Double-clicking `index.html` works fine for browsing. If you want the
-member links and relative paths to behave exactly like a real deployment,
-serve the folder locally instead, e.g. from inside this folder:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then open http://localhost:8000.
+https://kaps-lock.vercel.app/
 
 ## Notes
 
