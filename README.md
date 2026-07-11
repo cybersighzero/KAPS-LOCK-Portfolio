@@ -1,4 +1,4 @@
-# Segfault — static site
+# KAPS LOCK — static site
 
 Plain HTML/CSS/JS. No build step, no dependencies. Open `index.html` in a
 browser, or serve the folder with anything that serves static files.
