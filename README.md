@@ -41,5 +41,5 @@ https://kaps-lock.vercel.app/
 - Fonts (Instrument Serif, Inter, JetBrains Mono) load from Google Fonts —
   you'll need an internet connection for them to appear; otherwise the
   page falls back to system fonts.
-- Member photos are placeholder images from pravatar.cc — swap the `src`
+- Member photos are placeholder images — swap the `src`
   in each member page and roster card for real photos whenever ready.
